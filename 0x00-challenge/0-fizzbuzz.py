@@ -29,7 +29,8 @@ def fizzbuzz(n):
 
     # 1. We create an empty list called tmp_result.
     # 2. We loop through the numbers from 1 to n.
-    # 3. If the number is divisible by 3 and 5, we append FizzBuzz to tmp_result.
+    # 3. If the number is divisible by 3 and 5, we append FizzBuzz to
+    # tmp_result.
     # 4. If the number is divisible by 3, we append Fizz to tmp_result.
     # 5. If the number is divisible by 5, we append Buzz to tmp_result.
     # 6. Otherwise, we append the number itself to tmp_result.
